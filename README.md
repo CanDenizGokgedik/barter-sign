@@ -9,3 +9,19 @@ The parties involved in the transaction create a case via Barter-Sign. The payme
 
 ## If there is an objection...
 The parties open an objection case, upload their documents, photos to the site, and explain their issues. Meanwhile, there is a **CLASS of JUDGES** on the site. They examine the case.
+
+## Class of Judges 
+The judge class will be formed from users who have used the site for a certain period, undergone KYC verification, and used only one account. The judge class examines the cases presented to them and votes on which party is right.
+
+## The 50%+ rule
+Based on the voting by the judge class, if one side receives more than **50%** of the votes, they are deemed justified and their statement is accepted.
+
+## Motivation to be part of the judge class
+To create a case on the site, the fee taken from both parties is held on the site. Meanwhile, the winning side in the majority vote (the judges who voted correctly) receives a share of this fee. The judge class earns cryptocurrency solely by voting on cases.
+
+## Places where the system will be used
+
+Remote signing of documents by parties.
+Payment methods in Shopping Marketplaces.
+Digital in-game purchases.
+Payment of freelance salaries.
