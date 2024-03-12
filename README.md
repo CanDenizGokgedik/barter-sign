@@ -25,3 +25,10 @@ Remote signing of documents by parties.
 Payment methods in Shopping Marketplaces.  
 Digital in-game purchases.  
 Payment of freelance salaries.  
+
+
+### The GitHub repository will be updated.
+
+
+
+
