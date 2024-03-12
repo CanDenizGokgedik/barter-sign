@@ -21,7 +21,7 @@ To create a case on the site, the fee taken from both parties is held on the sit
 
 ## Places where the system will be used
 
-Remote signing of documents by parties.
-Payment methods in Shopping Marketplaces.
-Digital in-game purchases.
-Payment of freelance salaries.
+Remote signing of documents by parties.  
+Payment methods in Shopping Marketplaces.  
+Digital in-game purchases.  
+Payment of freelance salaries.  
